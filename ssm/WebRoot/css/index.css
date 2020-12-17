@@ -1,0 +1,32 @@
+li{ list-style:none; }
+		.dropdown:hover>.dropdown-menu {
+		    display: block;
+			background-color: rgba(48,50,235,0.5);
+			margin-top: 0; 
+		}
+		
+		.dropdown>.dropdown-toggle:active {
+		    pointer-events: none;
+		
+		}
+		#nav{
+			background-color: rgb(65,139,232);
+			color: white;
+		}
+		.bg-my:hover,.bg-my:focus{
+			background-color: rgba(48,50,235,0.8);
+			color: white;
+		}
+		.bg-my{
+			background-color: rgba(48,50,235,0.3);
+		}
+		.bg-mynav:hover,.bg-mynav:focus{
+			background-color: rgba(48,50,235,1);
+			color: white;
+		}
+		#role{
+			text-align: right;
+		}
+		.line{
+			background-color: darkgray; width: 1px;
+		}
